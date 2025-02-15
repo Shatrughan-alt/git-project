@@ -1,1 +1,3 @@
-This is the file with single line. And now changed
+This is the file with single line.
+ And now changed
+This line is now being added by user 2.
