@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is the file with single line. And now changed
 
 I have added one line as user 1.
+=======
+This is the file with single line.
+ And now changed
+This line is now being added by user 2.
+>>>>>>> 355cd20e39c7a70391977dfa52ca55c7fd5fdd6b
