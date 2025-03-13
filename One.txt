@@ -7,3 +7,15 @@ This is the file with single line.
  And now changed
 This line is now being added by user 2.
 >>>>>>> 355cd20e39c7a70391977dfa52ca55c7fd5fdd6b
+
+
+
+
+FROM openjdk:21-jdk-slim
+
+EXPOSE 9099
+
+ADD target/spring-docker-demo.jar spring-docker-demo.jar
+
+CMD ["java", "-jar","spring-docker-demo.jar"]
+ 
